@@ -1,0 +1,22 @@
+ 
+{
+    "name": "FastFin Payment Generator",
+    "short_name": "FastFin",
+    "description": "A simple tool to generate UPI payment links and QR codes.",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#e9ecef",
+    "theme_color": "#007bff",
+    "icons": [
+        {
+            "src": "https://www.google.com/s2/favicons?domain=google.com&sz=192",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "https://www.google.com/s2/favicons?domain=google.com&sz=512",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
